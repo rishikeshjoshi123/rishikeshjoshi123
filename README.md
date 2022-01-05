@@ -3,7 +3,7 @@
 - 🌱 I am interested in solving coding problems in Leetcode and other various platforms.
 - 💞️ I can collaborate in projects involving similar skills.
 - 📫 rishikeshjoshi123@gmail.com 
-- Leetcode Profile https://leetcode.com/problemset/all/
+- Leetcode Profile https://leetcode.com/rishikeshjoshi123/
 - Instagram https://www.instagram.com/seeker_564/
 
 <!---
